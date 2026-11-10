@@ -26,7 +26,7 @@ Analyse de la **température** et des **précipitations** journalières du 1er j
 | Fichier | Rôle |
 |---|---|
 | `donnees_meteo.csv` | Données simulées : colonnes `Date`, `Temperature` (°C), `Precipitation` (mm) |
-| `analyse_meteo.ipynb` | Notebook : Introduction, Données, Méthode, Résultats, Interprétation, Conclusion |
+| `analyse_meteo_final.ipynb` | Notebook : Introduction, Données, Méthode, Résultats, Interprétation, Conclusion |
 | `README.md` | Présentation du projet |
 
 ## Utilisation
@@ -34,7 +34,7 @@ Analyse de la **température** et des **précipitations** journalières du 1er j
 1. Placer les trois fichiers dans le même dossier.
 2. Installer les bibliothèques : `pip install jupyter pandas matplotlib`
 3. Lancer Jupyter : `jupyter notebook`
-4. Ouvrir `analyse_meteo.ipynb` et exécuter toutes les cellules (**Kernel > Restart & Run All**).
+4. Ouvrir `analyse_meteo_final.ipynb` et exécuter toutes les cellules (**Kernel > Restart & Run All**).
 
 ## Outils libres utilisés
 
